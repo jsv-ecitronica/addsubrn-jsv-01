@@ -23,14 +23,14 @@ int main() {
    //   
    bool printMsg = true;
    do{
-      code = ReadNumber("Please introduce the first romanic number: ", number1);
+      code = ReadNumber("Please introduce the first Roman Numeral: ", number1);
       if (code == OK) code = ConvertUppercaseValidateChar(number1);
       if (code == OK) code = ValidateRoman(number1, printMsg);
       //printf("\ncode = %d",code);
    }while(code != OK);
    //
    do{
-      code = ReadNumber("Please introduce the second romanic number: ", number2);
+      code = ReadNumber("Please introduce the second Roman Numeral: ", number2);
       if (code == OK) code = ConvertUppercaseValidateChar(number2);
       if (code == OK) code = ValidateRoman(number2, printMsg);
    }while(code != OK);
