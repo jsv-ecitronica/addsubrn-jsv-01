@@ -14,7 +14,7 @@ Characteristics:
 - If the addition is out of range, the answer is not presented.
 - In the subtraction, the answer is presented only when the minuend is greater than the subtrahend.  
 
-Exectuion:
+Execution:
 - You can execute the program using any of the following commands:
  source addsubrn.sh 
  ./addsubrn.out" 
