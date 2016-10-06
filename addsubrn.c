@@ -12,6 +12,9 @@ int main() {
    
    printf("*************************************************************");
    printf("\n* Welcome to program for aritmethic of roman numerals !!!");
+   printf("\n* Operations available: addition and subtraction");
+   printf("\n* Allowed symbols:      i,v,x,l,c,d,m and I,V,X,L,C,D,M ");
+   printf("\n* Range of operation:   I to MMMCMXCIX (1 to 3999) ");
    printf("\n* Designed by Javier Soto Vargas - javiersotovargas@gmail.com");
    printf("\n*************************************************************");
    printf("\n");

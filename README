@@ -1,0 +1,15 @@
+This is a git for a program that allows to perform aritmethic operatios for roman numerals.
+
+Characteristics:
+- The aritmethic operations available are: addition and subtraction.
+- All validations for inputs are included.
+- Range of values for operations are: I - MMMCMXCIX, or 1 to 3999 in arabic notation.   
+- The program request two input numbers (n1 y n2) and performs the following operations:
+  - The addition n1 + n2.
+  - The subtraction n1 - n2. 
+  - The subtraction n2 - n1.
+- The program print debug messages for demostratives purposes.
+- If the addition is out of range, the answer is not presented.
+- In the subtraction, the answer is presented only when the minuend is greater than the subtrahend.  
+
+This program was designed for Javier Soto Vargas - javiersotovargas@gmail.com
