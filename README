@@ -3,8 +3,8 @@ This is a git for a program that allows to perform arithmetic operatios for Roma
 Characteristics:
 - The arithmetic operations available are: addition and subtraction.
 - All validations for inputs are included.
-- All operations were performed using strings (or chars). Convertions to intereger numbers were not performed. 
-- Range of values for operations are: I - MMMCMXCIX, or 1 to 3999 in arabic notation. 
+- All operations were performed using strings (or chars). Conversions to interger numbers were not performed. 
+- Range of values for operations are: I - MMMCMXCIX, or 1 to 3999 in Arabic notation. 
 - Allowed symbols:i,v,x,l,c,d,m and I,V,X,L,C,D,M  
 - The program request two input numbers (n1 y n2) and performs the following operations:
   - The addition n1 + n2.
