@@ -1,7 +1,7 @@
-This is a git for a program that allows to perform aritmethic operatios for roman numerals.
+This is a git for a program that allows to perform arithmetic operatios for Roman Numerals.
 
 Characteristics:
-- The aritmethic operations available are: addition and subtraction.
+- The arithmetic operations available are: addition and subtraction.
 - All validations for inputs are included.
 - Range of values for operations are: I - MMMCMXCIX, or 1 to 3999 in arabic notation.   
 - The program request two input numbers (n1 y n2) and performs the following operations:
